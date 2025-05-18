@@ -1,0 +1,2 @@
+netty=client.netty.transport.remoting.com.zhouzhou.NettyRpcClient
+socket=socket.transport.remoting.com.zhouzhou.SocketRpcClient
